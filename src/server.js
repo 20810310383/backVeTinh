@@ -26,6 +26,8 @@ connectDB();
 const allowedOrigins = [
     'http://localhost:3050', 
     'http://localhost:3051', // Local development    
+    'https://trang-chu-ve-tinh-one.vercel.app',
+    'https://admin-ve-tinh.vercel.app',
     
 ];
 
